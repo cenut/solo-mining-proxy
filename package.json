@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "bech32": "^1.1.4",
+    "bigint-buffer": "^1.1.2"
+  }
+}
